@@ -1,2 +1,2 @@
 # EasySpend-Baking
-The EasySpend is my first giant project for my graduation.
+The EasySpend is my first giant project for my graduation..
